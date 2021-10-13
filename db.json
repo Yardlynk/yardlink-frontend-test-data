@@ -1,0 +1,18 @@
+{
+  "featured": [
+    {
+      "id": 1,
+      "title": "1.5T Mini Digger",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/yl-production/product/images/images/000/000/760/small/1-5-2.jpg?1576862775",
+      "url": "https://yardlink.com/p/1-5t-mini-digger"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Tool Hire",
+      "image_url": "https://s3.eu-west-2.amazonaws.com/yl-production/categories/images/000/000/219/small/2.2-Meter-Double-Width-Access-Tower.jpg?1573777658",
+      "url": "https://yardlink.com/tool-hire"
+    }
+  ]
+}
